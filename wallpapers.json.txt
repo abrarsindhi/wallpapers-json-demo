@@ -1,0 +1,53 @@
+[
+  {
+    "id": 1,
+    "category": "Architecture",
+    "imageUrl": "https://raw.githubusercontent.com/abrarsindhi/wallpapers-json-demo/main/wallpapers/wall1.jpg"
+  },
+  {
+    "id": 2,
+    "category": "Nature",
+    "imageUrl": "https://raw.githubusercontent.com/abrarsindhi/wallpapers-json-demo/main/wallpapers/wall2.jpg"
+  },
+  {
+    "id": 3,
+    "category": "Blur",
+    "imageUrl": "https://raw.githubusercontent.com/abrarsindhi/wallpapers-json-demo/main/wallpapers/wall3.jpg"
+  },
+  {
+    "id": 4,
+    "category": "Abstract",
+    "imageUrl": "https://raw.githubusercontent.com/abrarsindhi/wallpapers-json-demo/main/wallpapers/wall4.jpg"
+  },
+  {
+    "id": 5,
+    "category": "Architecture",
+    "imageUrl": "https://raw.githubusercontent.com/abrarsindhi/wallpapers-json-demo/main/wallpapers/wall5.jpg"
+  },
+  {
+    "id": 6,
+    "category": "Nature",
+    "imageUrl": "https://raw.githubusercontent.com/abrarsindhi/wallpapers-json-demo/main/wallpapers/wall6.jpg"
+  },
+  {
+    "id": 7,
+    "category": "Blur",
+    "imageUrl": "https://raw.githubusercontent.com/abrarsindhi/wallpapers-json-demo/main/wallpapers/wall7.jpg"
+  },
+  {
+    "id": 8,
+    "category": "Abstract",
+    "imageUrl": "https://raw.githubusercontent.com/abrarsindhi/wallpapers-json-demo/main/wallpapers/wall8.jpg"
+  },
+ {
+    "id": 9,
+    "category": "Abstract",
+    "imageUrl": "https://raw.githubusercontent.com/abrarsindhi/wallpapers-json-demo/main/wallpapers/wall9.jpg"
+  },
+ {
+    "id": 10,
+    "category": "Abstract",
+    "imageUrl": "https://raw.githubusercontent.com/abrarsindhi/wallpapers-json-demo/main/wallpapers/wall10.jpg"
+  },
+
+]    
